@@ -1,0 +1,1 @@
+# Connexion simple en PHP
